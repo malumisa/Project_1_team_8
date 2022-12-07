@@ -8,6 +8,14 @@ The project's objective is to provide both an overview and details confirming th
 
 To carry out the research and evaluation, several data sources were pooled, including census data from 2016 and 2021, consumer spending data across a variety of consumer goods (through StatsCan), as well as evaluation of the cost of living/consumer index during this period.  The data will be examined in correlation to the demographic and socioeconmic makeup of the Canadian population.  
 
+The following steps will be undertaken:
+
+* Collection of data from a validated sources
+* Cleaning of the data to extract only useful information in accordance with our project questions
+* Construction of valuable analytics and visualizations
+* Measurement of the trends using statistical tools
+* Validation 9or rejection) of our hypothesis based on the evaluated measuring figures
+
 ## Research Parameters
 * Can we define a meaningful approach to describe and compare the Canadian socioeconomic profile before and during the pandemic?
 * Is there evidence that Canadians spent more money relative to their disposable income both before and after the pandemic?
@@ -24,9 +32,9 @@ On average Canadians spent about $4,000 less, largely because:
 
 As a result, household savings rose across the country to the tune of $180 billion in the 2020-2021, or roughly $5,800 per Canadian.
 
+### Project Team Approach:
 1) A logical place to begin our analysis would be to review the socio-economic make-up of the Canadian population to get a sense of disposable income (after tax income).  Because of the diversity of the Canadian population, we focused on total values and majority populations to ensure a large and consistent sample size for the data.
-
-2) 
+2)  
 
 
 
