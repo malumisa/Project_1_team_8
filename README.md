@@ -2,18 +2,44 @@
 ## Team #8 - Using Data Analytics to Evaluate Behaviours
 
 ## Abstract
-The coronavirus pandemic left a huge impact on every aspect of human life.  The project's objective is to provide both an overview and details of how behviours changed relative to spending and approaches to education in Canada, comparing population and economic data both before and during the pandemic.  
+The coronavirus pandemic left a huge impact on every aspect of human life.  In particular, during the pandemic, a lot of assumptions were made about how people's behaviours may have been impacted by ongoing restrictions and lockdowns.  Focus on spending habits, conventional wisdom and economic analysis assumes that spending would have been impacted in a negative way.  As people isolated and hunkered down in their homes, spending on food, personal items, clothing and entertainement would have been reduced.
 
-To carry out the research and evaluation, several data sources were pooled, including census data from 2016 and 2021, consumer spending data across a variety of consumer goods, as well as enrolment in alternative education streams (ie. MOOCS).  Analysis will be undertaken as to how these may have changed during this time frame.  The data will be examined in correlation to the demographic and socioeconmic makeup of the Canadian population.  
+The project's objective is to provide both an overview and details confirming this assumption.  The overarching question focuses on how behviours changed relative to spending and the cost of living in Canada, comparing population and economic data both before and during the pandemic.  
 
-## Next steps
-Data on consumer spending and educational and demographic makeup will be consolidated to draw comparative inferences to identify whether any correlations can be drawn.
+To carry out the research and evaluation, several data sources were pooled, including census data from 2016 and 2021, consumer spending data across a variety of consumer goods (through StatsCan), as well as evaluation of the cost of living/consumer index during this period.  The data will be examined in correlation to the demographic and socioeconmic makeup of the Canadian population.  
 
-## Research Questions
-* Defining a comparison of the Canadian socioeconomic profile before and during the pandemic.
-* Did Canadians spend more money relative to their income both before and after?
-* In what commodities did Canadians spend more? (ie. education, consumer goods, food, etc.)
-* Are there indicators that show a correlation between changing behaviours before and after the pandmeic.
+## Research Parameters
+* Can we define a meaningful approach to describe and compare the Canadian socioeconomic profile before and during the pandemic?
+* Is there evidence that Canadians spent more money relative to their disposable income both before and after the pandemic?
+* In what commodities did Canadians spend more? (ie. consumer goods, food, retail.)?
+* Is there a correlation between spending and pre/post pandemic spending habits?
+* Is there evidence that other factors may have contributed to increases in spending during this period? (ie. correlation is not causation)
+
+## Methodology
+In March 2021, Deputy Governor Lawrence Schembri spoke about how COVID-19 has affected household saving and spending patterns.  The Canadian economy remained resilient over the period defined by locdown measures. Businesses and consumers were largely been able to adapt, and the housing market remained robust, even while job losses continued to affect many people, but were largely mitigated by an unprecedented level of fiscal support. This helped offset a sharp drop in labour income.
+
+On average Canadians spent about $4,000 less, largely because:
+* many high-contact services such as travel and entertainment were shut down
+* people were being more cautious about both their finances and their health
+
+As a result, household savings rose across the country to the tune of $180 billion in the 2020-2021, or roughly $5,800 per Canadian.
+
+1) A logical place to begin our analysis would be to review the socio-economic make-up of the Canadian population to get a sense of disposable income (after tax income).  Because of the diversity of the Canadian population, we focused on total values and majority populations to ensure a large and consistent sample size for the data.
+
+2) 
+
+
+
+# Observations
+
+
+
+#Conclusions
+
+
+
+# Further consideration/Next Steps
+
 
 ## Sources
 * https://search.open.canada.ca/en/od/?od-search-portal=Open+Data&search_text=consumer+spending
