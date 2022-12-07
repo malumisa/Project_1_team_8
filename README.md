@@ -30,7 +30,11 @@ On average Canadians spent about $4,000 less, largely because:
 * many high-contact services such as travel and entertainment were shut down
 * people were being more cautious about both their finances and their health
 
-As a result, household savings rose across the country to the tune of $180 billion in the 2020-2021, or roughly $5,800 per Canadian.
+As a result, household savings rose across the country to the tune of $180 billion in the 2020-2021, or roughly $5,800 per Canadian.  Overall, the resiliency of consumption comes as a result of Canadians reorienting their purchases towards goods from services. The data indicate that with the exception of the first wave pull-back, goods outlays have been largely detached from pandemic dynamics.  
+
+The resiliency of consumption comes as a result of changing spending patterns by Canadians. Provincial restrictions as well as health worries, resulted in consumers shunning “high-touch” areas of the economy, such as recreation, entertainment, and travel services, and, instead, directing more of their income toward purchasing goods (Source: https://economics.td.com/ca-spending-pandemic).
+
+Our analysis hopes to test this idea against available data for this time period.
 
 ## Project Team Approach:
 Section 1 - A logical place to begin our analysis would be to review the socio-economic make-up of the Canadian population to get a sense of the compsotion of income by household and the sources of disposable income (after tax income).  This will allow us to gauge how this might impact spending behaviour.  Because of the diversity of the Canadian population, we focused on total values and majority populations to ensure a large and consistent sample size for the data.  Using medians for the data also provided reliable values (rather than a mean which might be skewed by outliers). [M.Carvalho]
