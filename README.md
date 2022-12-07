@@ -33,11 +33,11 @@ On average Canadians spent about $4,000 less, largely because:
 As a result, household savings rose across the country to the tune of $180 billion in the 2020-2021, or roughly $5,800 per Canadian.
 
 ## Project Team Approach:
-1) A logical place to begin our analysis would be to review the socio-economic make-up of the Canadian population to get a sense of disposable income (after tax income).  Because of the diversity of the Canadian population, we focused on total values and majority populations to ensure a large and consistent sample size for the data.
+1) A logical place to begin our analysis would be to review the socio-economic make-up of the Canadian population to get a sense of the compsotion of income by household and the sources of disposable income (after tax income).  This will allow us to gauge how this might impact spending behaviour.  Because of the diversity of the Canadian population, we focused on total values and majority populations to ensure a large and consistent sample size for the data.  Using medians for the data also provided reliable values (rather than a mean which might be skewed by outliers).
 2)  
 
 
-## Contents of Data
+## Description of the Data
 
 
 ## Data Sources
@@ -58,7 +58,7 @@ As a result, household savings rose across the country to the tune of $180 billi
 
 
 
-## Further consideration/Next Steps
+## Further Consideration/Next Steps
 
 
 ## Links (Data Sources)
