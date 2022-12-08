@@ -47,21 +47,52 @@ Section 4 -
 
 
 ## Description of the Data
+Section 1 - The Canadian Census is required to be completed by all Canadians every five year.  Focusing on the 2016 and 2021 collection periods would provide a good sense of a before and after that pandemic picture of the Canadian population.  It covers demographic data for a range of socioeconomic variables, and as such lends itself to fruitful analysis.  It is a significantly large data set, which has been made available to developers through an API (https://censusmapper.ca/api).  For the purposes of our work, the StatsCan import package provides the best resource.  It allways the user to download available datasets directly from the StatsCan website directly into the Jupyter Notebook.  Once integrated, the use can create the required DataFrame and data transformation and visualizations.  The two data sets used included, Household income statistics by household type and Impact of the COVID-19 pandemic on income by percentage change in income between 2019 and 2020.  The first provides a demographic breakdown, including income, of the Canadian population by household type.  The second provides statistics on income types and sources for a variety of population pools.  The data is highly coded and downloads as "objects", so a lot of cleaning is required to get it into a codable format.  The type of resulting data works well with bar and line graphs. [Author: M. Carvalh]
 
+Section 2 -
+
+Section 3 -
+
+Section 4 -
 
 ## Data Sources
+Section 1 - 
 
+Section 2 -
+
+Section 3 -
+
+Section 4 -
 
 
 ## Observations
 
 ### Before COVID
+Section 1 - 
+
+Section 2 -
+
+Section 3 -
+
+Section 4 -
 
 ### After COVID
+Section 1 - 
+
+Section 2 -
+
+Section 3 -
+
+Section 4 -
 
 ### Analysis
+Section 1 - 
 
+Section 2 -
 
+Section 3 -
+
+Section 4 -
 
 ## Conclusions
 
