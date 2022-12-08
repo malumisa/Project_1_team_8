@@ -56,7 +56,9 @@ Section 3 -
 Section 4 -
 
 ## Data Sources
-Section 1 - 
+Section 1 [M.Carvalho]
+* Household income statistics by household type: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810005701
+* The impact of the COVID-19 pandemic on income by percentage change in income between 2019 and 2020: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810008701
 
 Section 2 -
 
