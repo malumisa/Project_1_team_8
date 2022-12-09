@@ -83,13 +83,38 @@ Section 2 -
 
 Section 3 -
 ###q1 2010 - q3 2022
-HCFE: r value is 0.87, slope 0.11 pvalue 6.79e-017. There is strong evidence that HDI drove HFCE behavior
+HCFE: - value is 0.87, slope 0.11,  pvalue 6.79e-017. There is strong evidence that HDI drove HFCE behavior
+Food and non alcoholic beverages: r-value is 0.94, slope 0.01, pvalue 5.76e-27. strong evidence that HDI influenced spending in food and non alcoholic beverages.
+Food: r-value is 0.94, slope 0.01, pvalue 1.64e-24. strong evidence that HDI influenced spending in food and non alcoholic beverages
+Clothing and footwear: r-value is 0.64, slope 0.01, pvalue 3.65e-25.  There is evidence that HDI influenced spending in clothing and footwear
+Education: r-value is 0.94, slope 0.02, pvalue 6.35e-25.  strong evidence that HDI influenced spending in education.
+Transport: No evidence that HDI influenced spending.
+Food, beverage and accommodation services: No evidence that HDI influenced spending.
+Accommodation services: No evidence that HDI influenced spending.
+Health: No evidence that HDI influenced spending
 
 ###q1 2017 - q3 2022
+HCFE: - No evidence that HDI influenced spending
+Food and non alcoholic beverages: r-value is 0.76, slope 0.007, pvalue 2.13e-05. strong evidence that HDI influenced spending.
+Food: r-value is 0.7, slope 0.005, pvalue 1.5e-04. strong evidence that HDI influenced spending.
+Clothing and footwear: No evidence that HDI influenced spending
+Education: r-value is 0.7, slope 0.001, pvalue 1.65e-04. evidence that HDI influenced spending.
+Transport: r-value is -0.75, slope -0.03, pvalue 3.85e-05. evidence that HDI is negatively related with spending on transport.
+Food, beverage and accommodation services: r-value is -0.48, slope -0.01, pvalue 2e-02. evidence that HDI is negatively related with spending.
+Accommodation services: weak evidence that HDI is negatively related with spending on accommodation.
+Health: No evidence that HDI influenced spending
 
-###q1 2010 - q4 2019
+###q1 2017 - q4 2019
+HCFE: -No evidence that HDI influenced spending
+Food and non alcoholic beverages: weak evidence that HDI influenced spending.
+Food: Strong evidence that HDI influenced spending.
+Clothing and footwear: No evidence that HDI influenced spending
+Education: No evidence that HDI influenced spending.
+Transport: No evidence that HDI influenced spending.
+Food, beverage and accommodation services: No evidence that HDI influenced spending.
+Accommodation services: No evidence that HDI influenced spending.
+Health: No evidence that HDI influenced spending
 
-###q1 2020 - q3 2022
 
 Section 4 -
 
@@ -99,7 +124,16 @@ Section 1 -
 Section 2 -
 
 Section 3 -
-
+###q1 2020 - q3 2022
+HCFE: -Strong evidence that HDI influenced spending
+Food and non alcoholic beverages: Strong evidence that HDI influenced spendingng.
+Food: Strong evidence that HDI influenced spending.
+Clothing and footwear: Strong evidence that HDI influenced spending
+Education: Strong evidence that HDI influenced spending.
+Transport: Strong evidence that HDI influenced spending.
+Food, beverage and accommodation services: Strong evidence that HDI influenced spending.
+Accommodation services: Strong evidence that HDI influenced spending.
+Health: Strong evidence that HDI influenced spending
 Section 4 -
 
 ### Analysis
@@ -108,6 +142,7 @@ Section 1 -
 Section 2 -
 
 Section 3 -
+
 
 Section 4 -
 
