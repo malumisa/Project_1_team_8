@@ -67,8 +67,10 @@ Section 2 -
 
 
 Section 3 -
-* 1.	Detailed household final consumption expenditure, Canada, quarterly (x 1,000,000)- SEASONALLY ADJUSTED CONSTANT 2012.  https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610012401&pickMembers%5B0%5D=2.2&pickMembers%5B1%5D=3.1&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2010&cubeTimeFrame.endMonth=07&cubeTimeFrame.endYear=2022&referencePeriods=20100101%2C20220701
+* Detailed household final consumption expenditure, Canada, quarterly (x 1,000,000)- SEASONALLY ADJUSTED CONSTANT 2012.  https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610012401&pickMembers%5B0%5D=2.2&pickMembers%5B1%5D=3.1&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2010&cubeTimeFrame.endMonth=07&cubeTimeFrame.endYear=2022&referencePeriods=20100101%2C20220701
 * Current and capital accounts - Households, Canada, quarterly, - SEASONALLY ADJUSTED AT ANNUAL RATES. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610011201
+
+
 Section 4 -
 
 
