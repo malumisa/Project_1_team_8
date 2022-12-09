@@ -83,7 +83,7 @@ Section 2 -
 
 Section 3 -
 ###q1 2010 - q3 2022
-HCFE: - value is 0.87, slope 0.11,  pvalue 6.79e-017. There is strong evidence that HDI drove HFCE behavior
+HFCE: - value is 0.87, slope 0.11,  pvalue 6.79e-017. There is strong evidence that HDI drove HFCE behavior
 Food and non alcoholic beverages: r-value is 0.94, slope 0.01, pvalue 5.76e-27. strong evidence that HDI influenced spending in food and non alcoholic beverages.
 Food: r-value is 0.94, slope 0.01, pvalue 1.64e-24. strong evidence that HDI influenced spending in food and non alcoholic beverages
 Clothing and footwear: r-value is 0.64, slope 0.01, pvalue 3.65e-25.  There is evidence that HDI influenced spending in clothing and footwear
@@ -94,7 +94,7 @@ Accommodation services: No evidence that HDI influenced spending.
 Health: No evidence that HDI influenced spending
 
 ###q1 2017 - q3 2022
-HCFE: - No evidence that HDI influenced spending
+HFCE: - No evidence that HDI influenced spending
 Food and non alcoholic beverages: r-value is 0.76, slope 0.007, pvalue 2.13e-05. strong evidence that HDI influenced spending.
 Food: r-value is 0.7, slope 0.005, pvalue 1.5e-04. strong evidence that HDI influenced spending.
 Clothing and footwear: No evidence that HDI influenced spending
@@ -105,15 +105,15 @@ Accommodation services: weak evidence that HDI is negatively related with spendi
 Health: No evidence that HDI influenced spending
 
 ###q1 2017 - q4 2019
-HCFE: -No evidence that HDI influenced spending
-Food and non alcoholic beverages: weak evidence that HDI influenced spending.
+HFCE: -Strong evidence that HDI influenced spending
+Food and non alcoholic beverages: Strong evidence that HDI influenced spendingg.
 Food: Strong evidence that HDI influenced spending.
-Clothing and footwear: No evidence that HDI influenced spending
-Education: No evidence that HDI influenced spending.
-Transport: No evidence that HDI influenced spending.
-Food, beverage and accommodation services: No evidence that HDI influenced spending.
-Accommodation services: No evidence that HDI influenced spending.
-Health: No evidence that HDI influenced spending
+Clothing and footwear: Strong evidence that HDI influenced spending
+Education: Strong evidence that HDI influenced spending
+Transport: Strong evidence that HDI influenced spending.
+Food, beverage and accommodation services: Strong evidence that HDI influenced spending.
+Accommodation services: Strong evidence that HDI influenced spending.
+Health: Strong evidence that HDI influenced spending
 
 
 Section 4 -
@@ -125,15 +125,16 @@ Section 2 -
 
 Section 3 -
 ###q1 2020 - q3 2022
-HCFE: -Strong evidence that HDI influenced spending
-Food and non alcoholic beverages: Strong evidence that HDI influenced spendingng.
+HFCE: -No evidence that HDI influenced spending
+Food and non alcoholic beverages: Weak evidence that HDI influenced spendingng.
 Food: Strong evidence that HDI influenced spending.
-Clothing and footwear: Strong evidence that HDI influenced spending
-Education: Strong evidence that HDI influenced spending.
-Transport: Strong evidence that HDI influenced spending.
-Food, beverage and accommodation services: Strong evidence that HDI influenced spending.
-Accommodation services: Strong evidence that HDI influenced spending.
-Health: Strong evidence that HDI influenced spending
+Clothing and footwear: No evidence that HDI influenced spending
+Education: No evidence that HDI influenced spending.
+Transport: No evidence that HDI influenced spending.
+Food, beverage and accommodation services: No evidence that HDI influenced spending.
+Accommodation services: No evidence that HDI influenced spending.
+Health: No evidence that HDI influenced spending
+
 Section 4 -
 
 ### Analysis
@@ -142,16 +143,18 @@ Section 1 -
 Section 2 -
 
 Section 3 -
+HFCE and its components are largely influenced by disposable income, as the q1 2017 -q4 2019 results indicate. However, the impacts of the pandemic have been uneven. If we include  both pre-pandemic and pandemic data in the  analysis, results are not consistent. For example for q1 2010- q3 2022, HDI does not seem to influence spending patterns on transport, food, beverage and accommodation services. For q1 2017 -q3 2022, spending on HFCE, clothing and footwear and accommodation services is not  drivedn by HDI. Narrowing our focus to pandemic data leaves out Food as explained by changes in disposable income. There are  also some interesesting insights on some of the results in this period. Spending on transport and food, beverage and accommodation are  inversely related with HDI. This could point to the hardships associated with the oandemic as households' spending on high contact services was muted.
 
+results associated wth the pandemic (qq1 2020 -q3 2022)highlight the impact of the pandemic on Canadian households. Many lost their jobs and consequently income whilst others tpped into their savings. This also came a t a time when households became more conscious about their health and finances, triggeruing precautionary savings. Fiscal support from the dederal governmnet also boosted savings. In a recent survey by Statistics Canada, nearly threee in four Canadians reported that rising prices affect their ability to to meet daily expenses such as transportatopn, housing, food, and clothing. As such, many households are adjusting their spending habits including delaying moving to a new rental
 
 Section 4 -
 
 ## Conclusions
-
+COVID-19 had an uneven impact on households spending behaviour. Generally, results suggest that households have become more precautionary with spending as they build savings.
 
 
 ## Further Consideration/Next Steps
-
+There is need to delve deeper into the analaysis at the provincial and regional levels in order to deduce more insights that can inform policy on measures to stimulate spending
 
 ## Links (Data Sources)
 * https://search.open.canada.ca/en/od/?od-search-portal=Open+Data&search_text=consumer+spending
