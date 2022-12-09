@@ -82,6 +82,14 @@ Section 1 -
 Section 2 -
 
 Section 3 -
+###q1 2010 - q3 2022
+HCFE: r value is 0.87, slope 0.11 pvalue 6.79e-017. There is strong evidence that HDI drove HFCE behavior
+
+###q1 2017 - q3 2022
+
+###q1 2010 - q4 2019
+
+###q1 2020 - q3 2022
 
 Section 4 -
 
