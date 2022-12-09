@@ -4,9 +4,9 @@
 ## Abstract
 The coronavirus pandemic left a huge impact on every aspect of human life.  In particular, during the pandemic, a lot of assumptions were made about how people's behaviours may have been impacted by ongoing restrictions and lockdowns.  Focus on spending habits, conventional wisdom and economic analysis assumes that spending would have been impacted in a negative way.  As people isolated and hunkered down in their homes, spending on food, personal items, clothing and entertainement would have been reduced.
 
-The project's objective is to provide both an overview and details confirming this assumption.  The overarching question focuses on how behviours changed relative to spending and the cost of living in Canada, comparing population and economic data both before and during the pandemic.  
+The project's objective is to provide both an overview and details confirming this assumption.  The overarching question focuses on how behaviours changed relative to spending and the cost of living in Canada, comparing population and economic data both before and during the pandemic.  
 
-To carry out the research and evaluation, several data sources were pooled, including census data from 2016 and 2021, consumer spending data across a variety of consumer goods (through StatsCan), as well as evaluation of the cost of living/consumer index during this period.  The data will be examined in correlation to the demographic and socioeconmic makeup of the Canadian population.  
+To carry out the research and evaluation, several data sources were pooled, including census data from 2016 and 2021, household income and expenditure data  (through StatsCan), as well as evaluation of the cost of living/consumer index during this period.  The data will be examined in correlation to the demographic and socioeconmic makeup of the Canadian population.  
 
 The following steps will be undertaken:
 
@@ -14,7 +14,7 @@ The following steps will be undertaken:
 * Cleaning of the data to extract only useful information in accordance with our project questions
 * Construction of valuable analytics and visualizations
 * Measurement of the trends using statistical tools
-* Validation 9or rejection) of our hypothesis based on the evaluated measuring figures
+* Validation (or rejection) of our hypothesis based on the evaluating results from analytical tools
 
 ## Research Parameters
 * Can we define a meaningful approach to describe and compare the Canadian socioeconomic profile before and during the pandemic?
@@ -24,11 +24,11 @@ The following steps will be undertaken:
 * Is there evidence that other factors may have contributed to increases in spending during this period? (ie. correlation is not causation)
 
 ## Methodology
-In March 2021, Deputy Governor Lawrence Schembri spoke about how COVID-19 has affected household saving and spending patterns.  The Canadian economy remained resilient over the period defined by locdown measures. Businesses and consumers were largely been able to adapt, and the housing market remained robust, even while job losses continued to affect many people, but were largely mitigated by an unprecedented level of fiscal support. This helped offset a sharp drop in labour income.
+In March 2021, Deputy Governor Lawrence Schembri spoke about how COVID-19 had affected household saving and spending patterns.  The Canadian economy remained resilient over the period defined by lockdown measures. Businesses and consumers were largely able to adapt, and the housing market remained robust, even while job losses continued to affect many people, but were largely mitigated by an unprecedented level of fiscal support. This helped offset a sharp drop in labour income.
 
 On average Canadians spent about $4,000 less, largely because:
 * many high-contact services such as travel and entertainment were shut down
-* people were being more cautious about both their finances and their health
+* people were more cautious about both their finances and their health
 
 As a result, household savings rose across the country to the tune of $180 billion in the 2020-2021, or roughly $5,800 per Canadian.  Overall, the resiliency of consumption comes as a result of Canadians reorienting their purchases towards goods from services. The data indicate that with the exception of the first wave pull-back, goods outlays have been largely detached from pandemic dynamics.  
 
@@ -41,7 +41,7 @@ Section 1 - A logical place to begin our analysis would be to review the socio-e
 
 Section 2 -
 
-Section 3 -
+Section 3 - In this section we considered different time periods to capture household spending behaviour before and during COVID-19. We carried out regression analysis to test whether the drivers of spending behaviour remained significant over time. Initially, Household final consumption ependiture (HFCE) was considered. Accordingly, HFCE was categorized into food and beverages, food, clothing and footwear, education, transport, food, beverage and accommodation services, accommodation services, and health. Household disposable income (HDI) was the overarching explanatory variable in the analysis. [ S.Malumisa]
 
 Section 4 -
 
@@ -51,7 +51,8 @@ Section 1 - The Canadian Census is required to be completed by all Canadians eve
 
 Section 2 -
 
-Section 3 -
+Section 3 - Statistics Canada is a rich source for credible socioeconomic data and can be easily downloadable csv format. For this analysis we downloaded quarterly income and expenditure data for the period q1 2010 -q3 2022. This was a workable sample size allowing us to carryout regression analysis and deduce more accurate results. In the analysis the time periods were split into; q1 2010- q3 2022, q1 2017 -q3 2022, q1 2017- q4 2019 and q1 2020- q3 2022
+[S. Malumisa]
 
 Section 4 -
 
@@ -62,8 +63,12 @@ Section 1 [M.Carvalho]
 
 Section 2 -
 
-Section 3 -
 
+
+
+Section 3 -
+* 1.	Detailed household final consumption expenditure, Canada, quarterly (x 1,000,000)- SEASONALLY ADJUSTED CONSTANT 2012.  https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610012401&pickMembers%5B0%5D=2.2&pickMembers%5B1%5D=3.1&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2010&cubeTimeFrame.endMonth=07&cubeTimeFrame.endYear=2022&referencePeriods=20100101%2C20220701
+* Current and capital accounts - Households, Canada, quarterly, - SEASONALLY ADJUSTED AT ANNUAL RATES. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610011201
 Section 4 -
 
 
