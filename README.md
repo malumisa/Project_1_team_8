@@ -82,16 +82,16 @@ Section 2 -
 
 Section 3 -
 
-###q1 2017 - q4 2019
-HFCE: -Strong evidence that HDI influenced spending
+###q1 2017 - q4 2019.
+HFCE: -Strong evidence that HDI influenced spending.
 Food and non alcoholic beverages: Strong evidence that HDI influenced spendingg.
 Food: Strong evidence that HDI influenced spending.
-Clothing and footwear: Strong evidence that HDI influenced spending
-Education: Strong evidence that HDI influenced spending
+Clothing and footwear: Strong evidence that HDI influenced spending.
+Education: Strong evidence that HDI influenced spending.
 Transport: Strong evidence that HDI influenced spending.
 Food, beverage and accommodation services: Strong evidence that HDI influenced spending.
 Accommodation services: Strong evidence that HDI influenced spending.
-Health: Strong evidence that HDI influenced spending
+Health: Strong evidence that HDI influenced spending.
 
 
 Section 4 -
@@ -102,8 +102,8 @@ Section 1 -
 Section 2 -
 
 Section 3 -
-###q1 2020 - q3 2022
-HFCE: -No evidence that HDI influenced spending
+###q1 2020 - q3 2022.
+HFCE: -No evidence that HDI influenced spending.
 Food and non alcoholic beverages: Weak evidence that HDI influenced spendingng.
 Food: Strong evidence that HDI influenced spending.
 Clothing and footwear: No evidence that HDI influenced spending
