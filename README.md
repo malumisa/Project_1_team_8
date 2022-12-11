@@ -114,6 +114,7 @@ Q1 2017 - Q4 2019.
 * Accommodation services: Strong evidence that HDI influenced spending.
 * Health: Strong evidence that HDI influenced spending.
 
+![image](https://user-images.githubusercontent.com/111699427/206927429-868d6bc5-4c57-4859-8fee-de182015e8e0.png)
 
 Section 4 -
 
