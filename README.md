@@ -76,47 +76,54 @@ Section 4 -
 ## Observations
 
 ### Before COVID
-Section 1 - 
+Section 1 - The 2016 Census collects income levels from the prior year income tax.  Across the household types, the median after tax income was $74,000.00.  In 2016, the smallest contributor to household disposable income came from government benefits.  Couples with children had a median after-tax income of $103,000 in 2016, while multi-generational census households had a combined after tax income of $107,000. Lone-parent families had a median income of $52,000, while couples without children had a median after-tax income of $74,000. 
+
+Senior families, where the highest income earner was 65 years of age or older, had a median after-tax income of $57,800 in 2016, up 4.7% from 2012. Overall, market income (up 8.7% since 2012) has contributed more to this growth than government transfers. Unattached seniors had a median after-tax income of $26,100 in 2016.
 
 Section 2 -
 
 Section 3 -
-
-q1 2017 - q4 2019.
-HFCE: -Strong evidence that HDI influenced spending.
-Food and non alcoholic beverages: Strong evidence that HDI influenced spendingg.
-Food: Strong evidence that HDI influenced spending.
-Clothing and footwear: Strong evidence that HDI influenced spending.
-Education: Strong evidence that HDI influenced spending.
-Transport: Strong evidence that HDI influenced spending.
-Food, beverage and accommodation services: Strong evidence that HDI influenced spending.
-Accommodation services: Strong evidence that HDI influenced spending.
-Health: Strong evidence that HDI influenced spending.
+Q1 2017 - Q4 2019.
+* HFCE: -Strong evidence that HDI influenced spending.
+* Food and non alcoholic beverages: Strong evidence that HDI influenced spendingg.
+* Food: Strong evidence that HDI influenced spending.
+* Clothing and footwear: Strong evidence that HDI influenced spending.
+* Education: Strong evidence that HDI influenced spending.
+* Transport: Strong evidence that HDI influenced spending.
+* Food, beverage and accommodation services: Strong evidence that HDI influenced spending.
+* Accommodation services: Strong evidence that HDI influenced spending.
+* Health: Strong evidence that HDI influenced spending.
 
 
 Section 4 -
 
 ### After COVID
-Section 1 - 
+Section 1 - The 2020 Census collects income levels showed an increase from the prior census period.  Across the household types, the median after tax income was $79,500.00.  In 2020, the smallest contributor to household disposable income came from self-employed income, with government benefits playing a significantly larger contribution relative to 2016.  Couples with children had a median after-tax income of $114,000 in 2020, while multi-generational census households had a combined after tax income of $125,000. Lone-parent families had a median income of $62,000, while couples without children had a median after-tax income of $79,500.
 
 Section 2 -
 
 Section 3 -
-q1 2020 - q3 2022.
-HFCE: -No evidence that HDI influenced spending.
-Food and non alcoholic beverages: Weak evidence that HDI influenced spendingng.
-Food: Strong evidence that HDI influenced spending.
-Clothing and footwear: No evidence that HDI influenced spending
-Education: No evidence that HDI influenced spending.
-Transport: No evidence that HDI influenced spending.
-Food, beverage and accommodation services: No evidence that HDI influenced spending.
-Accommodation services: No evidence that HDI influenced spending.
-Health: No evidence that HDI influenced spending
+Q1 2020 - Q3 2022.
+* HFCE: -No evidence that HDI influenced spending.
+* Food and non alcoholic beverages: Weak evidence that HDI influenced spendingng.
+* Food: Strong evidence that HDI influenced spending.
+* Clothing and footwear: No evidence that HDI influenced spending
+* Education: No evidence that HDI influenced spending.
+* Transport: No evidence that HDI influenced spending.
+* Food, beverage and accommodation services: No evidence that HDI influenced spending.
+* Accommodation services: No evidence that HDI influenced spending.
+* Health: No evidence that HDI influenced spending
 
 Section 4 -
 
 ### Analysis
-Section 1 - 
+Section 1 - In 2020, the outbreak of COVID-19 and the corresponding public health measures and pandemic relief programs brought significant changes to the Canadian labour market and income landscape. Employment income consists of wages, salaries and commissions from paid employment and net self-employment income. Fewer Canadians received employment income in 2020 as lower-earning jobs disappeared. Household after-tax income growth accelerated from 2015 to 2020, particularly among families with children, driven by increases in government transfers. After-tax income growth was faster for households with lower incomes, reflecting greater contributions of the Canada Child Benefit and pandemic relief benefits on the incomes of lower-income families. (Source: https://www.statcan.gc.ca/en/sc/video/income-profile-canadians) 
+
+<img width="474" alt="Screen Shot 2022-12-11 at 12 43 31 PM" src="https://user-images.githubusercontent.com/115101031/206919740-58a49b03-ded3-4f54-a892-60036e8cc908.png">
+
+Over two-thirds of Canadian adults received income from one or more pandemic relief programs. Benefits from COVID-19 income supports offset losses in employment income among low-wage earners.
+
+<img width="743" alt="Screen Shot 2022-12-11 at 12 45 22 PM" src="https://user-images.githubusercontent.com/115101031/206919798-943fa9fc-8084-45be-90ee-c5071fa3cacf.png"
 
 Section 2 -
 
@@ -128,13 +135,14 @@ Narrowing our focus to pandemic data leaves out Food as the only spending compon
 Section 4 -
 
 ## Conclusions
-COVID-19 had an uneven impact on households spending behaviour. Generally, results suggest that households have become more precautionary with spending as they build savings.
+* Demographic data between the 2015 and 2020 census data showed that on average househol income increased, but the share of that income from government sources changes between the two collections, with a greater percentage of the household drawing some of their income from government sources.
+* COVID-19 had an uneven impact on households spending behaviour. Generally, results suggest that households have become more precautionary with spending as they build savings.
 
 
 ## Further Consideration/Next Steps
 There is need to delve deeper into the analaysis at the provincial and regional levels in order to deduce more insights that can inform policy on measures to stimulate spending
 
-## Links (Data Sources)
+## Links (Additional Sources)
 * https://search.open.canada.ca/en/od/?od-search-portal=Open+Data&search_text=consumer+spending
 * https://www12.statcan.gc.ca/wds-sdw/cpr2016-eng.cfm
 * https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/page.cfm?Lang=E&GENDERlist=1,2,3&STATISTIClist=1&HEADERlist=0&DGUIDlist=2021A00053520005&SearchText=toronto
