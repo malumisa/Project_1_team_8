@@ -82,7 +82,7 @@ Section 2 -
 
 Section 3 -
 
-###q1 2017 - q4 2019.
+q1 2017 - q4 2019.
 HFCE: -Strong evidence that HDI influenced spending.
 Food and non alcoholic beverages: Strong evidence that HDI influenced spendingg.
 Food: Strong evidence that HDI influenced spending.
