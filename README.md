@@ -152,7 +152,10 @@ Over two-thirds of Canadian adults received income from one or more pandemic rel
 <img width="743" alt="Screen Shot 2022-12-11 at 12 45 22 PM" src="https://user-images.githubusercontent.com/115101031/206920687-d20c16fa-df33-449d-9833-da889914c223.png">
 
 
-Section 2 - ![project1-gif](https://user-images.githubusercontent.com/116133856/206926681-f0b05b09-59a8-475d-bc66-75453b312f61.gif)
+Section 2 - 
+
+
+![project1-gif](https://user-images.githubusercontent.com/116133856/206926681-f0b05b09-59a8-475d-bc66-75453b312f61.gif)
 
 
 Section 3 -
