@@ -123,7 +123,7 @@ Section 1 - In 2020, the outbreak of COVID-19 and the corresponding public healt
 
 Over two-thirds of Canadian adults received income from one or more pandemic relief programs. Benefits from COVID-19 income supports offset losses in employment income among low-wage earners.
 
-<img width="743" alt="Screen Shot 2022-12-11 at 12 45 22 PM" src="https://user-images.githubusercontent.com/115101031/206919798-943fa9fc-8084-45be-90ee-c5071fa3cacf.png"
+<img width="743" alt="Screen Shot 2022-12-11 at 12 45 22 PM" src="https://user-images.githubusercontent.com/115101031/206920687-d20c16fa-df33-449d-9833-da889914c223.png">
 
 Section 2 -
 
