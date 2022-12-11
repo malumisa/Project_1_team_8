@@ -102,7 +102,7 @@ Section 1 -
 Section 2 -
 
 Section 3 -
-###q1 2020 - q3 2022.
+q1 2020 - q3 2022.
 HFCE: -No evidence that HDI influenced spending.
 Food and non alcoholic beverages: Weak evidence that HDI influenced spendingng.
 Food: Strong evidence that HDI influenced spending.
