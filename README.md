@@ -148,7 +148,9 @@ Our research sought to better understand the impact on Canadian household spendi
 
 
 ## Further Consideration/Next Steps
-There is need to delve deeper into the analaysis at the provincial and regional levels in order to deduce more insights that can inform policy on measures to stimulate spending
+There is a need to delve deeper into the analaysis at the provincial and regional levels in order to deduce more insights that can inform policy on measures to stimulate spending.  For example, provinces rolled out lock-down measures (and drew back containment measures) at different times.  The population of each province is different, as is income.  How were these variables manifested in the data.
+
+It will be useful to track whether spending behaviours return to pre-pandemic levels or if Canadians will persist with new learned behaviours with respect to pandemic spending?  With so many Canadian adversely affected, do we see greater caution and increased savings moving forward?
 
 ## Links (Additional Sources)
 * https://search.open.canada.ca/en/od/?od-search-portal=Open+Data&search_text=consumer+spending
