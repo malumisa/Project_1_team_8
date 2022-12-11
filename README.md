@@ -165,15 +165,11 @@ Section 2 -
 
 
 Section 3 -
-Spending on HFCE and its components is largely influenced by disposable income, as the q1 2017 -q4 2019 significant results indicate . If we include  both pre-pandemic and pandemic data in the  analysis, results are not consistent. For example, analysying the full data q1 2017 -q3 2022; spending on HFCE, clothing and footwear and accommodation services are not  drivedn by HDI. There are  also some notable puzzles on some of the results in this period. Spending on transport and food, beverage and accommodation are  inversely related with HDI. The distortion stems from inclusion of COVID-19 data which points to the hardships associated with the pandemic as households' spending on high contact services was muted. 
-
-
-•	We wanted to test whether spending behaviour changed as a result of covid-19. We carried out a regression analysis of HDI on HFCE and its components (including Food, Clothing and footwear, Education, Transport, Accommodation services, and health)
-•	Q1 2017 -Q3 2022 results were not consistent across HFCE and its components. We then split the data pre-COVID-19  and COVID-19 and ran regression equations.
-•	Precovid-Q1 2017 - q4 2019,  Spending on HFCE and its components was largely driven by HDI. Results are significant, high correlation, correct signs in the relationship between explanatory and explained variables.
-
-•	Covid- Q1 2020- q3 2022. Food spending is the only component with significant results albeit with a puzzle.
-•	Without a doubt, the impacts of the pandemic on Canadian households have been uneven. Results point to the hardships associated with the pandemic as households' spending on high-contact services was muted as many lost their jobs and consequently income. This also came at a time when households became more conscious about their health and finances, triggering precautionary savings. In a recent survey by Statistics Canada, nearly three in four Canadians reported that rising prices affect their ability to meet daily expenses such as transportation, housing, food, and clothing. As such, many households adjusted their spending habits hence the insignificant impact of HDI to drive spending behaviour in the period q1 2020- q3 2022.
+* We wanted to test whether spending behaviour changed as a result of covid-19. We carried out a regression analysis of HDI on HFCE and its components (including Food, Clothing and footwear, Education, Transport, Accommodation services, and health).
+* Q1 2017 -Q3 2022 results were not consistent across HFCE and its components. We then split the data pre-COVID-19  and COVID-19 and ran regression equations.
+* Precovid-Q1 2017 - q4 2019,  Spending on HFCE and its components was largely driven by HDI. Results are significant, high correlation, correct signs in the relationship between explanatory and explained variables.
+* 	Covid- Q1 2020- q3 2022. Food spending is the only component with significant results albeit with a puzzle.
+* 	Without a doubt, the impacts of the pandemic on Canadian households have been uneven. Results point to the hardships associated with the pandemic as households' spending on high-contact services was muted as many lost their jobs and consequently income. This also came at a time when households became more conscious about their health and finances, triggering precautionary savings. In a recent survey by Statistics Canada, nearly three in four Canadians reported that rising prices affect their ability to meet daily expenses such as transportation, housing, food, and clothing. As such, many households adjusted their spending habits hence the insignificant impact of HDI to drive spending behaviour in the period q1 2020- q3 2022.
 
 Section 4 -
 
