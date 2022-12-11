@@ -113,6 +113,7 @@ Q1 2017 - Q4 2019.
 * Food, beverage and accommodation services: Strong evidence that HDI influenced spending.
 * Accommodation services: Strong evidence that HDI influenced spending.
 * Health: Strong evidence that HDI influenced spending.
+* 
 ![image](https://user-images.githubusercontent.com/111699427/206927557-2393c0be-bd02-4441-bcb0-3a0c795587d2.png)
 
 
@@ -140,6 +141,7 @@ Q1 2020 - Q3 2022.
 * Food, beverage and accommodation services: No evidence that HDI influenced spending.
 * Accommodation services: No evidence that HDI influenced spending.
 * Health: No evidence that HDI influenced spending
+* 
 ![image](https://user-images.githubusercontent.com/111699427/206927597-ba32978d-0638-4129-8aba-073bf95799dc.png)
 
 <img width="342" alt="image" src="https://user-images.githubusercontent.com/111699427/206927729-0dfd00bf-12a2-4a82-a810-ac6116752a4d.png">
