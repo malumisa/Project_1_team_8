@@ -135,6 +135,14 @@ Narrowing our focus to pandemic data leaves out Food as the only spending compon
 Section 4 -
 
 ## Conclusions
+Despite high job losses and lengthy lock-downs, the Canadian economy remained resilient over the period covering the start and worst of the COVID-19 pandemic. Businesses and consumers appeared to adapt, incuding benefitting from an unprecedented level of support from the government, which helped offset a sharp drop in labour income. On average Canadians spent about $4,000 less last year, largely because:
+* many high-contact services such as travel and entertainment have been shut down
+* people are being more cautious about both their finances and their health
+
+As a result, household savings have risen across the country to the tune of $180 billion in the past year, or roughly $5,800 per Canadian.
+Overall, the impacts of COVID-19 have been uneven—including those on household savings and spending. (Source: https://www.bankofcanada.ca/2021/03/household-consumption-in-a-pandemic/)
+
+Our research sought to better understand the impact on Canadian household spending behaviour.  Our data and analysus concluded:  
 * Demographic data between the 2015 and 2020 census data showed that on average househol income increased, but the share of that income from government sources changes between the two collections, with a greater percentage of the household drawing some of their income from government sources.
 * COVID-19 had an uneven impact on households spending behaviour. Generally, results suggest that households have become more precautionary with spending as they build savings.
 
