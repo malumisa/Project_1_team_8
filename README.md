@@ -193,6 +193,10 @@ It will be useful to track whether spending behaviours return to pre-pandemic le
 
 With supply chain issues impacting the availability of certain consumer goods, it might be worthwhile also exploring how supply and demand impacted spending during this period?
 
+
+## Presentation Slidedeck
+https://docs.google.com/presentation/d/1YuyYELPtSM5-attMPaKEkIe50e4IxG3hMymvBZNOZ_4/edit?usp=sharing
+
 ## Links (Additional Sources)
 * https://search.open.canada.ca/en/od/?od-search-portal=Open+Data&search_text=consumer+spending
 * https://www12.statcan.gc.ca/wds-sdw/cpr2016-eng.cfm
