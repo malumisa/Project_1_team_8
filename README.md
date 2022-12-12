@@ -1,4 +1,4 @@
-# Project 1: Changing Behaviours During the COVID-19 Pandemic
+# Project 1: Epidemic, Pandemic & Endemic (COVID-19) Impacts on Consumer Behaviour in Canada
 ## Team #8 - Using Data Analytics to Evaluate Behaviours
 
 ## Abstract
