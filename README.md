@@ -191,6 +191,8 @@ There is a need to delve deeper into the analaysis at the provincial and regiona
 
 It will be useful to track whether spending behaviours return to pre-pandemic levels or if Canadians will persist with new learned behaviours with respect to pandemic spending?  With so many Canadian adversely affected, do we see greater caution and increased savings moving forward?
 
+With supply chain issues impacting the availability of certain consumer goods, it might be worthwhile also exploring how supply and demand impacted spending during this period?
+
 ## Links (Additional Sources)
 * https://search.open.canada.ca/en/od/?od-search-portal=Open+Data&search_text=consumer+spending
 * https://www12.statcan.gc.ca/wds-sdw/cpr2016-eng.cfm
