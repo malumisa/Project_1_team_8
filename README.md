@@ -129,7 +129,7 @@ Section 3 - Q1 2020 - Q3 2022:
 * Health: No evidence that HDI influenced spending
 [S. Malumisa]
 
-<img width="344" alt="image" src="https://user-images.githubusercontent.com/111699427/207116651-2bc29f26-9f68-445f-8232-5658d6456339.png">
+
 
 
 ### Analysis
@@ -155,6 +155,8 @@ Section 3 -
 * 	Covid- Q1 2020- q3 2022. Food spending is the only component with significant results albeit with a puzzle.
 * 	Without a doubt, the impacts of the pandemic on Canadian households have been uneven. Results point to the hardships associated with the pandemic as households' spending on high-contact services was muted as many lost their jobs and consequently income. This also came at a time when households became more conscious about their health and finances, triggering precautionary savings. In a recent survey by Statistics Canada, nearly three in four Canadians reported that rising prices affect their ability to meet daily expenses such as transportation, housing, food, and clothing. As such, many households adjusted their spending habits hence the insignificant impact of HDI to drive spending behaviour in the period q1 2020- q3 2022.
 [S. Malumisa]
+
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/111699427/207116959-c0806365-a45c-4398-8712-325c345adc78.png">
 
 
 ## Conclusions
