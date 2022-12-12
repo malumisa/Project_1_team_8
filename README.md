@@ -41,12 +41,9 @@ Section 1 - A logical place to begin our analysis would be to review the socio-e
 
 Section 2 - The COVID pandemic crisis has forced many small businesses to reassess the decades-old traditional business models or face closing permanently. 
 New and existing technologies are thrust to the forefront of every business toolkit, and forward-looking businesses are addressing talent questions that arise from these new digital business skillsets.
-We were able to choose a random socioeconomic variables and plot the variations including CAnadian  global retail sales from 2019-2021, Current data on retail sales, umemloyment and sepending data
+We were able to choose a random socioeconomic variables and plot the variations including CAnadian  global retail sales from 2019-2021, Current data on retail sales, umemloyment and sepending data. [PrabhaRS]
 
 Section 3 - In this section we considered different time periods to capture household spending behaviour before and during COVID-19. We carried out regression analysis to test whether the drivers of spending behaviour remained significant over time. Initially, Household final consumption ependiture (HFCE) was considered. Accordingly, HFCE was categorized into food and beverages, food, clothing and footwear, education, transport, food, beverage and accommodation services, accommodation services, and health. Household disposable income (HDI) was the overarching explanatory variable in the analysis. [ S.Malumisa]
-
-Section 4 -
-
 
 ## Description of the Data
 Section 1 - The Canadian Census is required to be completed by all Canadians every five year.  Focusing on the 2016 and 2021 collection periods would provide a good sense of a before and after that pandemic picture of the Canadian population.  It covers demographic data for a range of socioeconomic variables, and as such lends itself to fruitful analysis.  It is a significantly large data set, which has been made available to developers through an API (https://censusmapper.ca/api).  For the purposes of our work, the StatsCan import package provides the best resource.  It allways the user to download available datasets directly from the StatsCan website directly into the Jupyter Notebook.  Once integrated, the use can create the required DataFrame and data transformation and visualizations.  The two data sets used included, Household income statistics by household type and Impact of the COVID-19 pandemic on income by percentage change in income between 2019 and 2020.  The first provides a demographic breakdown, including income, of the Canadian population by household type.  The second provides statistics on income types and sources for a variety of population pools.  The data is highly coded and downloads as "objects", so a lot of cleaning is required to get it into a codable format.  The type of resulting data works well with bar and line graphs. [Author: M. Carvalh]
@@ -56,54 +53,44 @@ Overall canadian spending (consolidated)
 Retaile trade sales by Province and Territory 2021 
 Employment ratio 2019-2022
 Economic Indicators - Retale sale 2022
+[PrabhaRS]
 
 Section 3 - Statistics Canada is a rich source for credible socioeconomic data and can be easily downloadable csv format. For this analysis we made use of  quarterly income and expenditure data for the period q1 2017 -q3 2022. The data was then split into pre-COVID-19 and COVID-19 and we carried out regression analysis to deduce insights on the impact of the pandemic on household spending behaviour.[S. Malumisa]
-
-Section 4 -
 
 ## Data Sources
 Section 1 [M.Carvalho]
 * Household income statistics by household type: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810005701
 * The impact of the COVID-19 pandemic on income by percentage change in income between 2019 and 2020: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810008701
 
-Section 2 - 
-Used a user-key parameter to your API calls to authenticate.
-Economic Indicators from The Statcan Daily API
-#https://statcan-economic-indicators-statcan-apicast-production.api.canada.ca/v1/ind-econ.json - Data point for API #https://statcan.api.canada.ca/en/detail?api=statcan-economic-indicators#:~:text=Economic%20Indicators%20from%20The%20Statcan%20Daily - Site #https://www150.statcan.gc.ca/n1/dai-quo/ind2-eng.htm - Data view in html
+Section 2 [PrabhaRS]
+* Used a user-key parameter to your API calls to authenticate Economic Indicators from The Statcan Daily API
+* https://statcan-economic-indicators-statcan-apicast-production.api.canada.ca/v1/ind-econ.json - Data point for API 
+* #https://statcan.api.canada.ca/en/detail?api=statcan-economic-indicators#:~:text=Economic%20Indicators%20from%20The%20Statcan%20 - Daily Site
+* #https://www150.statcan.gc.ca/n1/dai-quo/ind2-eng.htm - Data view in html
+* https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010000802&pickMembers%5B0%5D=1.1&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2020&cubeTimeFrame.endMonth=09&cubeTimeFrame.endYear=2022&referencePeriods=20200101%2C20220901
+* Retail e-commerce sales - Table: 20-10-0072-01 - release date 2022-11-22 #https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010000801&pickMembers%5B0%5D=2.1&pickMembers%5B1%5D=3.2&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2020&cubeTimeFrame.endMonth=09&cubeTimeFrame.endYear=2022&referencePeriods=20200101%2C20220901
+* Ecommerce - Retail trade sales by province and territory (x 1,000)
+* Retail e-commerce sales - Table: 20-10-0072-01 - release date 2022-11-22 #https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010000801&pickMembers%5B0%5D=2.1&pickMembers%5B1%5D=3.2&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2020&cubeTimeFrame.endMonth=09&cubeTimeFrame.endYear=2022&referencePeriods=20200101%2C20220901
 
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010000802&pickMembers%5B0%5D=1.1&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2020&cubeTimeFrame.endMonth=09&cubeTimeFrame.endYear=2022&referencePeriods=20200101%2C20220901
-
-Retail e-commerce sales - Table: 20-10-0072-01 - release date 2022-11-22 #https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010000801&pickMembers%5B0%5D=2.1&pickMembers%5B1%5D=3.2&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2020&cubeTimeFrame.endMonth=09&cubeTimeFrame.endYear=2022&referencePeriods=20200101%2C20220901
-
-Ecommerce - Retail trade sales by province and territory (x 1,000)
-#Retail e-commerce sales - Table: 20-10-0072-01 - release date 2022-11-22 #https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010000801&pickMembers%5B0%5D=2.1&pickMembers%5B1%5D=3.2&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2020&cubeTimeFrame.endMonth=09&cubeTimeFrame.endYear=2022&referencePeriods=20200101%2C20220901
-
-
-
-
-
-Section 3 -
+Section 3 [S. Malumisa]
 * Detailed household final consumption expenditure, Canada, quarterly (x 1,000,000)- SEASONALLY ADJUSTED CONSTANT 2012.  https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610012401&pickMembers%5B0%5D=2.2&pickMembers%5B1%5D=3.1&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2010&cubeTimeFrame.endMonth=07&cubeTimeFrame.endYear=2022&referencePeriods=20100101%2C20220701
 * Current and capital accounts - Households, Canada, quarterly, - SEASONALLY ADJUSTED AT ANNUAL RATES. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610011201
-
-
-Section 4 -
-
 
 ## Observations
 
 ### Before COVID
 Section 1 - The 2016 Census collects income levels from the prior year income tax.  Across the household types, the median after tax income was $74,000.00.  In 2016, the smallest contributor to household disposable income came from government benefits.  Couples with children had a median after-tax income of $103,000 in 2016, while multi-generational census households had a combined after tax income of $107,000. Lone-parent families had a median income of $52,000, while couples without children had a median after-tax income of $74,000. 
 
-Senior families, where the highest income earner was 65 years of age or older, had a median after-tax income of $57,800 in 2016, up 4.7% from 2012. Overall, market income (up 8.7% since 2012) has contributed more to this growth than government transfers. Unattached seniors had a median after-tax income of $26,100 in 2016.
+Senior families, where the highest income earner was 65 years of age or older, had a median after-tax income of $57,800 in 2016, up 4.7% from 2012. Overall, market income (up 8.7% since 2012) has contributed more to this growth than government transfers. Unattached seniors had a median after-tax income of $26,100 in 2016. [MCarvalho]
 
-Section 2 - Retail e-commerce, including sales from both store and non-store retailers, rose 14.7% to $18.0 billion in 2018. 
-Retail e-commerce represented 2.9% of total retail sales, compared with 2.6% in 2017. 
-During the November and December holiday shopping season, retail e-commerce accounted for 3.9% of total retail sales, up from 3.5% in 2017, in part due to strong retail e-commerce sales in November 2018. 
-Approximately one-quarter of retail e-commerce sales took place during the 2018 holiday shopping season.
+Section 2 - E-Commerce
+* Retail e-commerce, including sales from both store and non-store retailers, rose 14.7% to $18.0 billion in 2018. 
+* Retail e-commerce represented 2.9% of total retail sales, compared with 2.6% in 2017. 
+* During the November and December holiday shopping season, retail e-commerce accounted for 3.9% of total retail sales, up from 3.5% in 2017, in part due to strong retail e-commerce sales in November 2018. 
+* Approximately one-quarter of retail e-commerce sales took place during the 2018 holiday shopping season.
+[PrabhaRS]
 
-Section 3 -
-Q1 2017 - Q4 2019.
+Section 3 - Q1 2017 - Q4 2019.
 * HFCE: -Strong evidence that HDI influenced spending.
 * Food and non alcoholic beverages: Strong evidence that HDI influenced spendingg.
 * Food: Strong evidence that HDI influenced spending.
@@ -113,26 +100,24 @@ Q1 2017 - Q4 2019.
 * Food, beverage and accommodation services: Strong evidence that HDI influenced spending.
 * Accommodation services: Strong evidence that HDI influenced spending.
 * Health: Strong evidence that HDI influenced spending.
-* 
+[S. Malumisa]
+
 ![image](https://user-images.githubusercontent.com/111699427/206927950-7add8b59-1cba-4324-b48c-2cf7208bcf56.png)
 ![image](https://user-images.githubusercontent.com/111699427/206927597-ba32978d-0638-4129-8aba-073bf95799dc.png)
 
-
-Section 4 -
-
 ### After COVID
-Section 1 - The 2020 Census collects income levels showed an increase from the prior census period.  Across the household types, the median after tax income was $79,500.00.  In 2020, the smallest contributor to household disposable income came from self-employed income, with government benefits playing a significantly larger contribution relative to 2016.  Couples with children had a median after-tax income of $114,000 in 2020, while multi-generational census households had a combined after tax income of $125,000. Lone-parent families had a median income of $62,000, while couples without children had a median after-tax income of $79,500.
+Section 1 - The 2020 Census collects income levels showed an increase from the prior census period.  Across the household types, the median after tax income was $79,500.00.  In 2020, the smallest contributor to household disposable income came from self-employed income, with government benefits playing a significantly larger contribution relative to 2016.  Couples with children had a median after-tax income of $114,000 in 2020, while multi-generational census households had a combined after tax income of $125,000. Lone-parent families had a median income of $62,000, while couples without children had a median after-tax income of $79,500. [MCarvalho]
 
 Section 2 - Retail e-commerce sales soar to all-time high:
-Retail e-commerce sales reached a record $3.9 billion in May, a 2.3% increase over April and 99.3% increase over February ($2.0 billion).
-Year over year, e-commerce sales more than doubled—with a 110.8% increase compared with May 2019.
-These record gains in e-commerce occurred as total retail sales experienced record declines.
-The impact of COVID-19 is best highlighted using April data. Retail sales plummeted to $33.9 billion in April, a 29.1% decline from February and a 26.4% decline from April 2019. 
-While e-commerce saw a 63.8% monthly increase in April, in-store sales dropped 25.3% . 
-In May, total retail sales started to recover, reaching $39.3 billion.
+* Retail e-commerce sales reached a record $3.9 billion in May, a 2.3% increase over April and 99.3% increase over February ($2.0 billion).
+* Year over year, e-commerce sales more than doubled—with a 110.8% increase compared with May 2019.
+* These record gains in e-commerce occurred as total retail sales experienced record declines.
+* The impact of COVID-19 is best highlighted using April data. Retail sales plummeted to $33.9 billion in April, a 29.1% decline from February and a 26.4% decline from April 2019. 
+* While e-commerce saw a 63.8% monthly increase in April, in-store sales dropped 25.3% . 
+* In May, total retail sales started to recover, reaching $39.3 billion.
+[PrabhaRS]
 
-Section 3 -
-Q1 2020 - Q3 2022.
+Section 3 - Q1 2020 - Q3 2022:
 * HFCE: -No evidence that HDI influenced spending.
 * Food and non alcoholic beverages: Weak evidence that HDI influenced spendingng.
 * Food: Strong evidence that HDI influenced spending.
@@ -142,14 +127,12 @@ Q1 2020 - Q3 2022.
 * Food, beverage and accommodation services: No evidence that HDI influenced spending.
 * Accommodation services: No evidence that HDI influenced spending.
 * Health: No evidence that HDI influenced spending
-
+[S. Malumisa]
 
 <img width="342" alt="image" src="https://user-images.githubusercontent.com/111699427/206927729-0dfd00bf-12a2-4a82-a810-ac6116752a4d.png">
 
-Section 4 -
-
 ### Analysis
-Section 1 - In 2020, the outbreak of COVID-19 and the corresponding public health measures and pandemic relief programs brought significant changes to the Canadian labour market and income landscape. Employment income consists of wages, salaries and commissions from paid employment and net self-employment income. Fewer Canadians received employment income in 2020 as lower-earning jobs disappeared. Household after-tax income growth accelerated from 2015 to 2020, particularly among families with children, driven by increases in government transfers. After-tax income growth was faster for households with lower incomes, reflecting greater contributions of the Canada Child Benefit and pandemic relief benefits on the incomes of lower-income families. (Source: https://www.statcan.gc.ca/en/sc/video/income-profile-canadians) 
+Section 1 - In 2020, the outbreak of COVID-19 and the corresponding public health measures and pandemic relief programs brought significant changes to the Canadian labour market and income landscape. Employment income consists of wages, salaries and commissions from paid employment and net self-employment income. Fewer Canadians received employment income in 2020 as lower-earning jobs disappeared. Household after-tax income growth accelerated from 2015 to 2020, particularly among families with children, driven by increases in government transfers. After-tax income growth was faster for households with lower incomes, reflecting greater contributions of the Canada Child Benefit and pandemic relief benefits on the incomes of lower-income families. [MCarvalho] (Source: https://www.statcan.gc.ca/en/sc/video/income-profile-canadians) 
 
 <img width="474" alt="Screen Shot 2022-12-11 at 12 43 31 PM" src="https://user-images.githubusercontent.com/115101031/206919740-58a49b03-ded3-4f54-a892-60036e8cc908.png">
 
@@ -158,11 +141,11 @@ Over two-thirds of Canadian adults received income from one or more pandemic rel
 <img width="743" alt="Screen Shot 2022-12-11 at 12 45 22 PM" src="https://user-images.githubusercontent.com/115101031/206920687-d20c16fa-df33-449d-9833-da889914c223.png">
 
 
-Section 2 - 
+Section 2 
 
 
 ![project1-gif](https://user-images.githubusercontent.com/116133856/206926681-f0b05b09-59a8-475d-bc66-75453b312f61.gif)
-
+[PrabhaRS]
 
 Section 3 -
 * We wanted to test whether spending behaviour changed as a result of covid-19. We carried out a regression analysis of HDI on HFCE and its components (including Food, Clothing and footwear, Education, Transport, Accommodation services, and health).
@@ -170,8 +153,8 @@ Section 3 -
 * Precovid-Q1 2017 - q4 2019,  Spending on HFCE and its components was largely driven by HDI. Results are significant, high correlation, correct signs in the relationship between explanatory and explained variables.
 * 	Covid- Q1 2020- q3 2022. Food spending is the only component with significant results albeit with a puzzle.
 * 	Without a doubt, the impacts of the pandemic on Canadian households have been uneven. Results point to the hardships associated with the pandemic as households' spending on high-contact services was muted as many lost their jobs and consequently income. This also came at a time when households became more conscious about their health and finances, triggering precautionary savings. In a recent survey by Statistics Canada, nearly three in four Canadians reported that rising prices affect their ability to meet daily expenses such as transportation, housing, food, and clothing. As such, many households adjusted their spending habits hence the insignificant impact of HDI to drive spending behaviour in the period q1 2020- q3 2022.
+[S. Malumisa]
 
-Section 4 -
 
 ## Conclusions
 Despite high job losses and lengthy lock-downs, the Canadian economy remained resilient over the period covering the start and worst of the COVID-19 pandemic. Businesses and consumers appeared to adapt, incuding benefitting from an unprecedented level of support from the government, which helped offset a sharp drop in labour income. On average Canadians spent about $4,000 less last year, largely because:
