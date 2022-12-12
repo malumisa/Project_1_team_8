@@ -129,7 +129,8 @@ Section 3 - Q1 2020 - Q3 2022:
 * Health: No evidence that HDI influenced spending
 [S. Malumisa]
 
-<img width="342" alt="image" src="https://user-images.githubusercontent.com/111699427/206927729-0dfd00bf-12a2-4a82-a810-ac6116752a4d.png">
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/111699427/207116651-2bc29f26-9f68-445f-8232-5658d6456339.png">
+
 
 ### Analysis
 Section 1 - In 2020, the outbreak of COVID-19 and the corresponding public health measures and pandemic relief programs brought significant changes to the Canadian labour market and income landscape. Employment income consists of wages, salaries and commissions from paid employment and net self-employment income. Fewer Canadians received employment income in 2020 as lower-earning jobs disappeared. Household after-tax income growth accelerated from 2015 to 2020, particularly among families with children, driven by increases in government transfers. After-tax income growth was faster for households with lower incomes, reflecting greater contributions of the Canada Child Benefit and pandemic relief benefits on the incomes of lower-income families. [MCarvalho] (Source: https://www.statcan.gc.ca/en/sc/video/income-profile-canadians) 
