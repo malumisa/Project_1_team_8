@@ -1,4 +1,4 @@
-# Project 1: Epidemic, Pandemic & Endemic (COVID-19) Impacts on Socioeconomics in Canada
+# Project 1: Epidemic, Pandemic & Endemic (COVID-19) Impacts on Socioeconomics in Canada.
 ## Team #8 - Using Data Analytics to Evaluate Behaviours
 
 ## Abstract
